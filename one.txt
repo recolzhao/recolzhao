@@ -1,0 +1,2 @@
+reset A and B
+this is a branch of test  file.
